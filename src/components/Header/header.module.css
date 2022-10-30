@@ -1,0 +1,12 @@
+.container {
+  text-align: center;
+}
+
+.title {
+  font-size: 25px;
+  font-weight: 400;
+}
+
+.number {
+  padding: 0 5px;
+}

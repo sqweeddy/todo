@@ -1,0 +1,32 @@
+.container {
+  padding: 25px 20px;
+  margin-bottom: 30px;
+  background-color: white;
+  box-shadow: 0px 4px 34px -6px rgba(0, 0, 255, 0.425);
+  border-radius: 10px;
+}
+
+.fields_container {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.form {
+  display: flex;
+  justify-content: space-between;
+}
+
+.formInput {
+  padding: 10px 5px;
+  min-width: 50%;
+  font-size: 15px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+.button_container {
+  margin-top: 10px;
+  width: 100%;
+  text-align: right;
+}
