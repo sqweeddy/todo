@@ -30,3 +30,9 @@
   width: 100%;
   text-align: right;
 }
+
+.error {
+  align-self: center;
+  color: red;
+  font-weight: 700;
+}
